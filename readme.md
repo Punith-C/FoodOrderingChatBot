@@ -81,7 +81,6 @@ A small, simple, smooth experience — just like chatting with a food-ordering a
 ![Home Screen](screenshots/home_screen)
 ![Chat Screen](screenshots/chatscreen)
 ![Chat Screen](screenshots/chat_screen)
-![Chat Screen](screenshots/chat__screen)
 ![Cart Screen](screenshots/cart)
 
 ---
