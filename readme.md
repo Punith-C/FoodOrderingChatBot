@@ -25,14 +25,6 @@ I built this to practice chatbot logic, UI handling, and basic flow management i
 * **XML layouts**
 * Custom ChatBot logic (no external AI required)
 
----
-
-📸 Screenshots
-
-
-![Home Screen](screenshots/home_screen)
-![Chat Screen](screenshots/chat_screen)
-![Cart Screen](screenshots/cart)
 
 ---
 
@@ -80,6 +72,17 @@ A small, simple, smooth experience — just like chatting with a food-ordering a
 * Add voice commands
 * Use a real AI model for dynamic replies
 * Add payment gateway simulation
+
+---
+
+📸 Screenshots
+
+
+![Home Screen](screenshots/home_screen)
+![Chat Screen](screenshots/chatscreen)
+![Chat Screen](screenshots/chat_screen)
+![Chat Screen](screenshots/chat__screen)
+![Cart Screen](screenshots/cart)
 
 ---
 
