@@ -30,9 +30,9 @@ I built this to practice chatbot logic, UI handling, and basic flow management i
 📸 Screenshots
 
 
-![Home Screen](screenshots/home_screen.png)
-![Chat Screen](screenshots/chat_screen.png)
-![Cart Screen](screenshots/cart.png)
+![Home Screen](screenshots/home_screen)
+![Chat Screen](screenshots/chat_screen)
+![Cart Screen](screenshots/cart)
 
 ---
 
